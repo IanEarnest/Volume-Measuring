@@ -1,0 +1,4155 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1280]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.165 seconds
+desktop: 1680x1050 60Hz; virtual: 2960x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Running as server. Player ID is 0.
+ 
+(Filename:  Line: 2479)
+
+Attempting to connect to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to facilitator at 67.225.180.24:50005
+
+ 
+(Filename:  Line: 2479)
+
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Sent host registration to master server, registering a NAT assisted game as
+ "MyRoomName", 1, 6, not password protected, ""
+ 
+(Filename:  Line: 2489)
+
+sendto failed with code -1 for char 9 and length 1464.
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1280]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projects\Unity\Volume Measuring\Builds\Multiplayer demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1680x1050 60Hz; virtual: 2960x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Running as client. No player ID set yet.
+ 
+(Filename:  Line: 2479)
+
+Connected to 192.168.1.7:25000
+
+ 
+(Filename:  Line: 2479)
+
+New connection established (192.168.1.7:54898)
+ 
+(Filename:  Line: 2479)
+
+Network protocol version 0 connected
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for AllocatedID: 0
+ 
+(Filename:  Line: 2479)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Allocated 2 batches of size 50 for player 1
+ 
+(Filename:  Line: 2489)
+
+Sent initalization to player 1
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sent host update to master server with identifier 0
+ 
+(Filename:  Line: 2479)
+
+Set player ID to 1
+
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received identifier 0 from master server
+ 
+(Filename:  Line: 2479)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.238201 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 145.
+Total: 0.460411 ms (FindLiveObjects: 0.006996 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.108606 ms  DeleteObjects: 0.003331 ms)
+
+Allocating view ID AllocatedID: 1.
+
+ 
+(Filename:  Line: 2479)
+
+Sent RPC call '__RPCNetworkInstantiate' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC '__RPCNetworkInstanUiate' to bufflearTi
+  0F1i8l6e nam
+e:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 1'
+
+ 
+(Filename:  Line: 2489)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 0.524043 ms (FindLiveObjects: 0.005663 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.155247 ms  DeleteObjects: 0.002998 ms)
+
+Allocating view ID AllocatedID: 50.
+
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:54898
+ 
+(Filename:  Line: 2489)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, view ID 'AllocatedID: 1'
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 1'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for AllocatedID: 50
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast off, view ID 'AllocatedID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 1
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 50
+
+ 
+(Filename:  Line: 2489)
+
+SSneingdgenergc sgaen erdace  btoadcastdate, broadcast on, view ID: 50'A
+
+ll
+(Fclanaede:IDL:n :12'8)
+
+ 
+(Filename:  Line: 2489)
+
+RRceceived statepdpate fofor viewD ID AllocatedI 50
+
+ 
+ 
+(Filename:  Line:: 2489)
+
+Sending generic state updnte, broadcast on, view ID st locatvieID:ID '
+
+ 
+(Filencme:a Line: 2489)
+
+edID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update tor view ID AllocatocaDt 1
+
+ 
+(Fil
+e
+na
+me:  Line: 2489)
+
+2489)
+
+SSndenn deiergc sgaeenuedrti,cb osdtaat ef , view ID r'Allaocaotedview ID '
+A
+ll
+ocatedID::  1i'e
+
+ 4
+9(F
+i
+lename:  Line: 2489)
+
+Received state upRateceived state update for view
+ 
+ID
+ Alllnomca teinI:D: 50)
+
+
+
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 1'
+
+ 
+(Filename:  LineSending generic s:a 2489)
+t
+e, broadcast off, view ID 'AllocatedID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+ReceivRd statved state updatew fD r view ID Al 1
+
+ 
+(ID: 50
+
+e:
+  Liename:  Li
+
+e: 2489)
+
+Sending generic state update, broadcSst ofing generic statc update: broadca50'on
+, 
+(File nD 'Allocated2489)
+
+
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for  view ID AlloocatedID: 0
+
+  
+
+(Filenma:  L  Line:89)
+
+9)
+
+Sending geeeric statte uppdte, broadcastt offview ID ID 'AlcateadID:D: '
+
+'
+
+(Fi
+(Fnalename: e:Line: 2
+4
+89)
+
+RecRieed state upte u pdate fo rD Alew ID AllocatedID: 50a
+
+ t
+eFilenam
+e
+: 
+ Filenam248e)
+
+ Line: 2489)
+
+Sending generic state update,Sbrndicng  gnenveeric state update,  1'
+
+ 
+(Filename:  Line: 2489)
+
+dID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+RecRieceivedtstate  updatefor view ID AllocatedID: 50
+
+ 
+
+(
+Filenname: Line: 2489)
+
+
+Sending generic state update, Sroadcast off,ric statD update, broadcast o
+n
+,
+(Filenam'AllocanedID: 1'
+
+ 
+
+(Filename:  Line: 2489)
+
+Received Rteteived ateator uviate fD Alviocated D: 5o0a
+t
+ed
+ID: 1n
+
+e:
+( Line: e:  Lin
+e
+: 2489)
+
+Sending gennric state update, broadcast on, view ID 'AllocatedID: 1'
+
+ 
+(Filename:  Line: 2489)
+
+eric state update, broadcast off, view ID 'AllocatedID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 50
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 1
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 1'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 1
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 50'
+
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.332482 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 132.
+Total: 0.725265 ms (FindLiveObjects: 0.006329 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.312826 ms  DeleteObjects: 0.020988 ms)
+
+UnloadTime: 0.277179 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 0.631983 ms (FindLiveObjects: 0.006329 ms CreateObjectMapping: 0.007995 ms MarkObjects: 0.292171 ms  DeleteObjects: 0.010327 ms)
+
+View ID AllocatedID: 50 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Received state update for view id' AllocatedID: 50' but the NetworkView doesn't exist
+ 
+(Filename:  Line: 2469)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.236202 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 145.
+Total: 0.490728 ms (FindLiveObjects: 0.006996 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.173237 ms  DeleteObjects: 0.002665 ms)
+
+Allocating view ID AllocatedID: 2.
+
+ 
+(Filename:  Line: 2479)
+
+Sent RPC call '__RPCNetworkInstantiate' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 24U9nl
+
+oadTime: 0.159911 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 0.504720 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.173237 ms  DeleteObjects: 0.002665 ms)
+
+Allocating view ID AllocatedID: 51.
+
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 51'
+
+ 
+(Filename:  Line: 2489)
+
+Sent batch 5 of size 50 to 1
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 51'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:54898
+ 
+(Filename:  Line: 2489)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, vieA sD 'Allo a edIw ID: 
+o
+ld
+ view ID 'Alloce: 2489)
+
+, new view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for AllocatedID: 51
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast off, view ID 'AllocatedID: 51'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 51
+
+ 
+(Filename:  Line: 2489)
+
+Sending generScestdate updatec br statetu dotn,  rvaicas IDt off, viewID: 2' 
+
+ 
+('iAlname:o a eLIi:n51'2
+4
+89
+)
+i
+lename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename: RLine:eceived
+ 
+state update for view ID AllocatedID: 51
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state updSte,nding gensric s off, pdate, broadcast on, veew ID 'AlloccaetIedID: 
+5
+1
+(Filename:  Line: 2'9)
+
+
+(Filename:  Line: 2489)
+
+RecRieedeivedes updatedfartveewfIorAlloew IDIAlloc1a
+t
+ed
+IFD:e 2me
+:
+ 
+(Fiilena4me)
+
+ Line: 2489)
+
+Sending generic stSte update, nericdscatst off, v broadcast on, view ID 'Al
+l
+oc
+atedIname:  
+L
+in
+eFil2489me
+:
+  Line: 2489)
+
+Received state update ffor iew ID AlllocatedID: 2
+
+ 
+
+(F
+ilelename:  Line: 2489)
+
+
+Sending generiS etate upgenericroadcast odate, broadcast on, view ID 1'
+
+ll
+ocatedIme:  Line: 2489)
+
+
+
+ 
+(Filename:  Line: 2489)
+
+Received staRe ecdate fotavte upD AllocatevidwIID :lloca
+t
+e
+(Filen
+a
+me
+:  Line: 2489)
+
+: 2489)
+
+Sending genericcs asetuadtte  urpadcasteoff, vbewrIo 'AllscatedID: 51'
+
+ 
+(Filename:  Line:
+ 
+24
+89)
+
+name:  Line: 2489)
+
+Received state update for view IDDAllocatedID: 51
+
+ 
+(Fil name:  LiIne: 2
+4
+89
+)
+
+lename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 51'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 51
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 2'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 2
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 51'
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID AllocatedID: 51
+
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.339811 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 132.
+Total: 0.656636 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.310161 ms  DeleteObjects: 0.020988 ms)
+
+UnloadTime: 0.277179 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 0.654637 ms (FindLiveObjects: 0.006329 ms CreateObjectMapping: 0.007995 ms MarkObjects: 0.305497 ms  DeleteObjects: 0.017323 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.257524 ms
+
+Unloading 2UUnloading 2 Uized files (Seeialfzid es les now zloaded: 0 / Dirty serialized yilses:a 0ze
+
+Unloading 
+
+Unloading 1 unused Asset memoryduce memooaded Objects now: 147.
+s noal: 15.960
+Total: (FindLiveObjects: L0veObjectsms 0.007eObjemc treatppbieng: pp.008990.0s MarkObjects: jects: 39 ms  DeleteObjects:b ec0s. 00022665 ms)
+
+
+AlAocloaatiignvgewvIi elwo aIDd A:l3.
+
+ t
+(Filena.
+
+ 
+(Fine: 2479)
+
+ilenaSent RPC c ll 2_4R7C9e)w
+r
+Instantiate' to all connectAd cigning a
+ 
+vi
+ew ID: old view ID 'Allo
+c
+Atdded RPC, new vNeetwor 'AllocatedID: 52'
+
+ 
+er.
+ 
+(me:  Lamne:: 2489)
+
+479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for AllocatedID: 52
+ 
+(Filename:  LAne: 2gning 
+a
+ viSendDng generiew ID 'Aal state up: 0', new vieast off, view IDID: 52'
+
+  
+'Allocate:  Line: 2
+4
+89
+)
+
+lename:  Line: 2489R
+e
+lay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:54898
+ 
+(Filename:  Line: 2489)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 2 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 2 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 3
+
+ 
+(Filename:  Line: 2489)
+
+SenSieg dinngrigeneric ustaat,e roadcast broadcast of 'SceneID: 2 LeveltedIefix: 0
+'
+
+
+( 
+lFineaame:  LLne: 2489)
+)
+
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+RRcecvedisvaee usdtta toe  iupdat AfllocatedID: 52
+
+ 
+(Filename:  Line: 24
+8
+9)
+(F
+i
+lename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 3
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 2 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 3
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: S2'
+
+di
+ng geneme:c Line: 2489)
+
+te update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+ReceiRed stated statee for vi w ID Allw ID Scene52
+
+ 
+(Filename:  x: 0e
+:
+ 2
+489)
+
+ame:  Line: 2489)
+
+Received state update for view ID AllocatedID: 3
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID RceneID: 2 Level Ppefix: 0
+
+ iew ID AlelocatedI 2: 52
+
+R 
+(Filenamete Line: 2489)
+
+ew ID AllocatedID: 3
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Received stateRueceived staiee upd AllocatedID ID A
+l
+lo
+catedID:e: 
+ 
+Li
+ne: 2nam9)
+
+Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+RRceivid edtate updatepfor view  D AvlocatIDdID: 3
+ted
+ID: 52
+
+ 
+( Line: 2489)
+
+e: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 3'
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID AllocatedID: 52
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 3
+
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 52'
+
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.319489 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 132.
+Total: 0.548363 ms (FindLiveObjects: 0.006996 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.202887 ms  DeleteObjects: 0.016990 ms)
+
+View ID AllocatedID: 52 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1676)
+
+Received state update for view id' AllocatedID: 52' but the NetworkView doesn't exist
+ 
+(Filename:  Line: 2469)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.302832 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 0.587341 ms (FindLiveObjects: 0.005330 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.179567 ms  DeleteObjects: 0.016657 ms)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnlloadTime: .222265 ms
+ms
+Unloading 2 Unuse 2 Unrializerializedd files (Serialized files now oaaded: 0 / Dirty serialized fille:s0:
+0)
+
+Unloading  1 un1 unuAsd Assett totoe ucedmucor meusage. Lge. Loadjects now: 238.
+244.
+l: tal:97948 ms (FindLiveOLivets: 0.00860.00932reateCreateObjectMapping: 90.00 MarkObjects: je.1ts: 07253 m49 Del  Deleects: e0.0030.002665
+ 
+ms)
+
+AAlocacatg viei nDgAlvoiatedID: 4loc
+a
+t
+edilename:
+ 
+ L
+ine: name: 
+ 
+Line:Sent RP
+C
+ call '__RPCNetworkInstantiate' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+'Added RPdCD  '_'_
+
+RP
+CFNletawor  Line: 2489)
+
+to buffer.
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for AllocatedID: 53
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast off, view ID 'AlloAassigning '
+ 
+vi
+ew ID: old view ID 'Allo
+c
+atedID: 0', new view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:54898
+ 
+(Filename:  Line: 2489)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+New scope index 0 is now in scope for SceneID: 3 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 3 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 5 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 5 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 4 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 6 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 6 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:R Leceived sta
+t
+e update for view ID SceneID: 3 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 5 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 6 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending geneSicending generic state update, broadcast on,oview ID 'SceneID: 5 LeatedID: ix: 0
+'
+
+
+(F
+ilename:  Linene: 2489
+)
+
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for vRew eived stattdID: 53
+
+ 
+(FilenameD ScLine:D:485 
+
+evel Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'ScenSID: di Level Prefix: 0'u
+p
+d
+(Filename:  Line: 2489)
+
+ID 'ASlocdteng generi
+
+ 
+(tate update, broa 248s)
+ 
+on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 5 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 248R)
+
+eived state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 5 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 5 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 5 LSvel Prefix:neri
+c
+ 
+(Fil nadate, ine: 2c4st of
+f
+, view IS 'Allng generic s'
+
+ 
+(Filename:  Line:  o489)
+
+w ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 5 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received statR eceived statieupIdate fortedID: 4
+
+ 
+(FaiedIlen:me:3
+
+in
+e: 248ame:
+ 
+ Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+Se
+nding generiLine: 248pdat
+e
+, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(FiSenamei:  Line: 2489)
+ update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filenameceived state up
+d
+ate for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, vinw ID 'AllocatedID: 4'
+
+ 
+(Filename:  offne: ew489)ID
+ 
+'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Recceivved state update for view ID Allocatr view5 I
+D
+ 
+AFilenamocatedID: 248
+9
+)
+
+Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 53'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 53
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'SceneID: 4 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 4'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 4 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 4
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.553027 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 0.553027 ms (FindLiveObjects: 0.005330 ms CreateObjectMapping: 0.008328 ms MarkObjects: 0.212215 ms  DeleteObjects: 0.032315 ms)
+
+UnloadTime: 0.487730 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 132.
+Total: 0.506719 ms (FindLiveObjects: 0.005330 ms CreateObjectMapping: 0.008661 ms MarkObjects: 0.105608 ms  DeleteObjects: 0.027318 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime:  0.226874  ms
+
+Unloading 5 Unused Serialined adiles (Sersidaleiizliz files nowS loaded: 0 / Dirty serialized f Dirty s)ri
+
+Uized fng 1 unus
+d Aloading 1 unussetsAssets to rmemory usage. Loaded Object Objow: 348.
+Total: 
+0.ta1210.933 (FindLiveObjects: ects13992 ms Crems CreactMajectMap i0.0099.010327 rkObmest :Ma.169bj72 ms  0.1ete2bjects: leteObjects: 
+
+.003331 ms)
+
+Allococatin vviewwIDID AllocateID: 5.
+
+ 
+(
+Fi
+lename: e Line:e:47979)
+
+
+Sent RPC call 'A_RPCNetworaInstantiate'  vieall c 'Alloca ctientI
+D
+ :
+( 0', ame: v Line: 2479)
+
+teAdde 54R'C '__RPCNetworkInstantiate' to buffer.
+
+
+ 
+(Fename: iLlne: 2479)
+
+eAssigning a: view ID: 
+o
+ld view ID 'AllocatedID: 0', new view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 5'
+
+ ssigninam a  view ID: ol
+ 
+view ID 'AlRocatedID: 0'namne w_ viNeww IDInstantiate - : 54e 
+2
+ -
+ sendeam192  Line: 2489)
+
+
+ 
+(Filename: RLelay RPC - 
+n
+amN: _ sRPope index stant0 is now in sc- s fnder 19oca16d8D1.7:54898
+ 
+(Filename: 54
+ 
+(Filenam
+e
+:  Line: 2479)
+
+PCNStworkngstgenertic io btffarl
+ 
+(atle ame:  e, nb:ro479)
+
+t Nff, view ID 'AllocatedID i54'
+n
+ 
+ Filepn for Se:  LD: 1iLev:  Prefi
+
+: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 2 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 2 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic statS uedntdi, b oenerist stat, view ID 'Allocast ID: view
+
+ 
+(Filename:  Line: 
+2
+48
+9)
+
+ename:  Line: 2489)
+
+Receeived sate  update for view ID AAllocatedID: 5
+4
+ 
+
+ 
+(lename:  LinLine: 248
+9
+)
+
+Senddingnggnegric etrte ipdate, b updatst on, view ID 'Allo vcawtIedID:lo5'
+
+ed
+IFDl: ame: 
+ 
+Li
+nFilename:
+ 
+ Line: 2489)
+
+Received state update for view Ic AllocatedID: t4
+
+up
+(aFilena mee: ID Alloc2489ID
+:
+ 5
+
+ 
+(Filename:  Line: 2489)
+
+SendingSgenedicisng generic stata update, broadcast on, f, v eIDI  'AllocatedID: 5A'
+l
+ o
+(ciaetaee: D:i e5 '49)
+
+
+(Filename:  Line: 2489)
+
+Received state update for vieR eceAivoca state u
+
+ 
+(Filer view Line: 2489)
+
+ID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic statSending generaic state updaew ID 'Aallaocated vDe:  D5'Al
+c td(Filena
+m
+ 
+( i Lname:  2i4e:9 
+
+489)
+
+Received sRate epdate ftate updaID AllocatewdID: 54oc
+a
+te
+dID: 5a
+
+ 
+(Filename:  Lin
+e
+: 2489)
+
+Sending generic state uSdate, broadneric ff, view ID 'AllocatedID: 54'
+
+ w
+(Fi'Aename:edID: 5'
+
+ 
+(F
+i
+lename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(FilenamR:  Line: 2489) u
+pdate for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcSse odfnf , nviiew tat 'AllocatedID: 54's
+t
+ o
+n,i viewe:  Linel 2489e)I:5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state ucdeti forvveew  Dstate update for 
+v
+ie
+w ID Alle:  LideID: 89)
+
+
+
+(Filename:  Line: 2489)
+
+Sending generndingtgeneripdate, broadctea srt dcast one, view ID 'AllocatedID:
+ 
+5
+(F
+i
+ 
+(Fiame:  Line: 2489)
+
+9)
+
+Reeecvedistetd  pstae eorupd ve fow v eI I  AllocatedtID: 54
+
+
+  
+
+(Filename:  Lin:e:4 2489)8
+9
+)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'SyncValues' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'SyncValues' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'SyncValues'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: SyncValues - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'SyncValues' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'SyncValues' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'SyncValues'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: SyncValues - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 54'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 54
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 5'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 5
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.559690 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 133.
+Total: 0.590340 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.008995 ms MarkObjects: 0.221544 ms  DeleteObjects: 0.047640 ms)
+
+UnloadTime: 0.452749 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 0.617325 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.009328 ms MarkObjects: 0.209550 ms  DeleteObjects: 0.086951 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.257191 mnl
+oadTime: 0.273515 ms
+UnlUanloading 6 Unused Seriad liiez eSdrialiezedSerialized filesed  0 w/ Dirty se rialriyzed files: 0)
+l
+Unload
+
+Unloading 1 unused Assetds to reduce memory usage. Loaded Objects no
+Tota19.
+0.7a74501 ms 224 ms (FindLiveObjects: 22 m1s3 Crea teObjectMappMappin0.011327 ms Ma MkObjectes: 0.0.1927 ms  DeleteObjects: 0.003664 ms)
+
+128595 ms  DeleteObjects: 0.003331 ms)
+
+Allocatinating  Iie AllocatedID: 6.
+5 
+(F
+i
+le
+nFme:e Lane: 2479): 
+2
+479)
+
+nt RPC call '__RPANetworkng a view ID: ol alie coID 'Aled clieID: 
+0
+',
+ Filenamew  Line: 2479)ID
+: Adde
+d
+ R
+PC '__Rme:  LinekIns8tan
+t
+iate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'SetNames' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'SetNames' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'SetNames'A ssigning  a virw 192.1l6 vie. I: 2A5lo00t
+ I:(0F,inlweviam eD  A loianed:D  25'8
+
+9
+)F
+enamR:e liaey  4R9P
+
+ - name:RSetNyamPCs- -a e: deR 2 - serkInstantiate - mode 2 
+- 
+sender 192.168.1.7:54898
+
+ 
+(Filename:  Linee :c p24ind)x 
+0
+ iAdded RPC '__RPCNetworkcastanti: 55
+ 
+(Filename
+: 
+ Line: 247  Li
+n
+e: 2S79)
+
+ng geReceived RPC 'SetNames'- mode 2 - sender 192.168.1.7:54898
+ 
+(Filenam
+e
+: 
+ Line: 2489)
+
+ne: la48y)
+ 
+RPC - name: SetNames - mode 2 - sender 192.168.1.7:54898
+ 
+(Filename:  Line: 2489)
+
+Added RPC 'SetNames' to buffer.
+ 
+(Filename:  Line: 2479)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 2 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 2 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending geneericc tste tepdupdate, barcoatconst,of , view D D l'AlatedID: ID
+:
+  
+(55l'a
+ :
+ (iFil 2n8am
+e
+:  Line: 2489)
+
+RecRived stdate update te for viewD  lIoDa AlIl:oca
+t
+ed
+ID: 55
+
+ 
+(FLine: 2489)
+
+ilename:  Line: 2489)
+
+Sending genericSstading gate, br state update, broadcast on,fv, view 'AllocatedIted6D: 
+5
+5'
+
+
+ 
+(File:  Line: ne:89)
+
+9)
+
+Received stRteeceived for view ID Allocatedw ID55
+
+ 
+(Filename: 
+ 
+Li
+ne: 2489)
+
+ Line: 2489)
+
+SSnendi ng gencric state uate, broadcadcast on, iiew Ie wAllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+ ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+ReceiRed eived updat update for view ID AlldID: 6
+
+ 
+(Fil
+e
+na
+mei:  Line: Lin89)
+
+489)
+
+SenSingnding generictsea u uddatt,e,r brcoadcast off, view IDo a'eAlDl 6'a
+
+ e
+(F:ilena
+m
+e:
+  Line: 2489Lin
+e
+: 2489)
+
+Received state update for view ID  AllocaedID: 55
+
+ 
+
+(
+Filename:  Linel ename:
+ 
+ Line: 2489)
+
+Sending Seneric stgete uic sta br udcdate, f, vidcast on, vcew ID 'Alloca
+t
+e
+(Filena
+
+m
+:( Fineena489)
+
+Line: 2489)
+
+Received state updaate for viw wD Alloc tAdID:lloc
+a
+te
+dID: na
+m
+e:
+(F Line: 2489)
+
+me:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocateSID: 55'
+
+ 
+(File same:  Line: 248roa
+d
+cast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+ReceRvedceived state upda e fo ID All ID AlID: 6
+
+ 
+(Filen
+a
+me
+:  Line: 2  Lin
+e
+: 2489)
+
+SendingSgenericg tate upc state update, broadcast on, vilocatD 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+
+
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(FilenamR:eceived  4s9)
+t
+e update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'Ac state update,
+bro
+adcast oe:  Line: 2489)
+
+ view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for vRew ceived state updat5 
+
+ 
+(Filename:A lo aLeiIn:e6:
+
+ 2
+48i9)name:  Line: 2489)
+
+
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+ReReived statetupdatte updatew ID AllocaID AD: oca
+
+ 
+(F: 6
+
+ 
+(FilLename2489 
+
+Line: 2489)
+
+SSnending genicesraic  tate ue, bte,roadadast off, view ID 'AllocatedID: 6'
+
+ 
+
+(
+Filename:  Line: 24899)
+
+Received state update for view ID AllocatedIR: 55e
+i
+ve
+d state update for2489)
+
+ view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state updaSe, bding get on, viet Ie 'Allocate,edID: 6'br
+oa
+dcaseta o:ffL, eview 9)D
+
+'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Reeceivdd staaetepdupedfartvi wfIo rl viate II: 6A
+
+l
+lFolcname:dILi: 552
+9
+ 
+
+
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state  puapd ate for view ID AllocatedID
+:
+ 5
+5
+
+ 
+(Filenamine: L2ne: 2
+4
+89)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for viewRID Aeived sdID: 55
+
+ 
+tate update for vie489ID 
+
+AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, viSwending generid state 
+u
+p
+(tei benadcmse : f, view ID 'Al
+l
+ocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: R5
+
+ 
+(vFilstate update for name: D Aileloc489)a
+
+tedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: S'e
+n
+di
+nFilename:  Line: 2489)
+
+roadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+RRceiveived statedatpdate for view ID Allocat: 55
+
+ 
+(
+F
+il
+(FilenameLine:in2e: 24
+8
+9)
+
+Sending generic state update, broadcast on,Svending gelloratcdID: 6' u
+p
+da
+te, broadcast off,2 view
+ 
+ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received sRatec iveu spdae u for viewrIDview ID Adllocat
+
+d
+(FDl:name: 
+ 
+Li
+ne: 24ame:
+ 
+ Line: 2489)
+
+Sending generic state uSdaending generic state update, broadcdaDs t' 
+
+ 
+fF,lename:  Line: 2489d
+
+ID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state updRte foir vistate updaocet for  55
+
+ 
+(Filename:  Line: 24
+8
+9)
+(F
+i
+lename:  Line: 2489)
+
+Sendiding geneeic s state update, broadcasoff, , ieiww ID 'Alloca'edAD: 6'
+
+ 
+(Filenam
+e
+: 
+ Line: 2489)
+
+ne: 2489)
+
+Receicvived state update for view ID AlocatedID: 55
+
+ 
+ Fi
+lename: e:  Line: 2489
+
+)
+
+SenSiending gec state utp upte, broadcast t off,iew ID 'AllocatedIedID6'
+
+ 
+(
+Fi
+(Fename:  L  Lin2489)
+
+9)
+
+Received state update for viewRID cleocvat sItate u
+p
+da
+(F foe view ID AllocatedID
+:
+ 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename: e dLine: 2489)
+
+ state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received statte update for view ID AllocatedIID: 55
+
+ 
+(FilenameD:   
+L
+in
+e: 2489)
+
+  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast off, view ID 'AllocatedID: 55'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 55
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 6'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 6
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'SyncValues' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'SyncValues' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'SyncValues'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: SyncValues - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.721267 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 136.
+Total: 0.770240 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.009328 ms MarkObjects: 0.320156 ms  DeleteObjects: 0.111938 ms)
+
+UnloadTime: 0.689285 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 0.517713 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.009994 ms MarkObjects: 0.150583 ms  DeleteObjects: 0.046640 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.244198 ms
+UnloadTime: 0.166241 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 343.
+Total: 0.625986 ms (FindLiveObjects: 0.013325 ms CreateObjoading 4 Un 0.010993 ms Mar files (S rialized files now loaded: 0 0 Dir2665 ms)
+
+ized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 1.017437 ms (FindLiveObjects: 0.012659 ms CreateObjectMapping: 0.010993 ms MarkObjects: 0.125597 ms  DeleteObjects: 0.002998 ms)
+
+Allocating view ID AllocatedID: 56.
+
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 56'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for AllocatedID: 56
+ 
+(Filename:  Line: 2479)
+
+D Sllnoicg tedIDic i.
+
+ 
+(Filename:  Line: 2479)
+
+t offS vie RPC call '__RPCNetwor'
+
+n
+(tailename:  Line: 2489)
+
+ed clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 7'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+New scope index 0 is now in scope for SceneID: 2 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 2 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic initial state update, broadcast on, view ID 'AllocatedID: 7'
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 56'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:54898
+ 
+(Filename:  Line: 2489)
+
+Added RPC '__RPCNetworkInstantiate' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received state update for view ID AllocatedID: 56
+
+ 
+(Filename:  Line: 2489)
+
+Assigning a view ID: old view ID 'AllocatedID: 0', new view ID 'AllocatedID: 7'
+
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: __RPCNetworkInstantiate - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 2 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 7
+
+ 
+(Filename:  Line: 2489)
+
+Sending genSrecnstaite update, btroadupdate, broadcast on, view ID D:Alloca
+t
+ed
+ID: 7'
+
+ 
+(Filena e:  Lin2:489)
+
+
+
+Received state update for view ID AllocatedID: 7
+
+ 
+(Filename:  Line: 2489R
+e
+ceived state update for view ID AllocatedID: 56
+
+ 
+(Filename:  Line: 2489)
+
+Sending  gnerne state ute updabroabcrstaod,cvstew ID f,AllocatedI :v7'
+
+ 
+(Filename:  Line: 2489)
+
+iew ID 'AllocatedID: 56'
+
+ 
+(Filename:  Line: 2489)
+
+RRceevedesiaveeudd tetfartveewuIp daltcet dfDo r
+ 
+ 
+(Fwl nIDe AllocatedID9:
+ 
+56
+
+ 
+(Filename:  Line: 2489)
+
+Sending genenr genstic state up,daroadcast dcn, view ID ew IDcatedID:atedI
+
+ :5(F
+i
+l
+(Fime:n meL inin:e: 248
+
+)
+
+Receivveds stt upe tepfoate for view ID AldIoc: 56
+
+ : 
+7
+
+ 
+(Filename:  Line: 2
+4
+89)
+
+Sending generic state updSteendroad caner c soate update, broadcast on, view ID 'AllocatedID: 7'
+
+ 
+(Filename:  Line: 2489)
+
+ff, view ID 'AllocatedID: 56'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID ARlecaceeIi:v7e
+
+ 
+sFtletam :upLdaet 2 8fo
+r
+ view ID AllocatedID: 56
+
+ 
+(Filename:  Line: 2489)
+
+Seedingdginnric state update update, aroadea, broa viewdIDast off, view : 7'
+
+ 
+(FilenaDm 5e:
+ 
+  
+(Liiename:2 4i8e9 )4
+9)
+
+
+Received state update for view ID AllocatedID: 7
+
+ 
+RFeceived state : 2p8d)
+
+e for view ID AllocatedID: 56
+
+ 
+(Filename:  Line: 2489)
+
+Sendend ng eenercistate stdate ubpdate, t on, view ID 'AllocatedID: 7'
+
+ dI
+D:i e56'
+
+ 
+(Filename:  
+L
+ine: 2489)
+
+Received state update for view ID AllocatedID: 7
+
+ 
+(Filename:  Line: R489cei
+v
+ed state update for view ID AllocatedID: 56
+
+ 
+(Filename:  Line: 2489)
+
+Sending generic state update, broadcast on, view ID 'AllocatedIdID: 
+
+ 
+(
+F
+(Filename:  Line:48248
+9
+)
+
+Receevevedt ts tpatte ufdat vforw ID AlloDatAllocated
+
+ 
+(Fil
+e
+n
+(Fi: ename:  489)
+ 2489)
+
+Seneing ng gerieric ste update, b, broadcast on,vview ID  'AllocaedID: 7'
+
+ 
+(
+Fi
+lenlemea:  Line: 248989
+
+
+
+Received state update for view ID AllocatedID: 7
+
+ 
+(Filename:  LineR eceive
+d
+ state update for view ID AllocatedID: 56
+
+ 
+(Filename:  Line: 2489)
+
+Sendding generic state updnate, broc stast on, view ID 'Allot otff, viewID
+ '
+(Allename: ILine: 2489
+)
+
+
+(Filename:  Line: 2489)
+
+Received staRe ucdati fed state updatocated vi ew
+
+ 
+DF lenlmocateinD: 564
+8
+9
+
+
+ilename:  Line: 2489)
+
+Sending generic state update, broadcast off, vSew nt RPA call 'SyDncValu
+e
+s'
+ to allmco:  Line: 2489)
+
+
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'SyncValues' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Sending generic state update, broadcast on, view ID 'AllocatedID: 7'
+
+ 
+(Filename:  Line: 2489)
+
+Received RPC 'SyncValues'- mode ID AllocatedI :  56
+
+ 
+(Filename:  Line5000
+ 
+(F
+i
+lename:  Line: 2489)
+
+Relay RPC - name: SyncValues - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID AllocatedID: 7
+
+ 
+(Filename:  Line: 2489)
+
+Sent RPC call 'LoadLevel' to all connected clients
+
+ 
+(Filename:  Line: 2479)
+
+Added RPC 'LoadLevel' to buffer.
+ 
+(Filename:  Line: 2479)
+
+Received RPC 'LoadLevel'- mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+Relay RPC - name: LoadLevel - mode 2 - sender 192.168.1.7:25000
+ 
+(Filename:  Line: 2489)
+
+UnloadTime: 0.533704 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 0.565020 ms (FindLiveObjects: 0.006329 ms CreateObjectMapping: 0.010327 ms MarkObjects: 0.179900 ms  DeleteObjects: 0.054969 ms)
+
+UnloadTime: 0.449084 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 0.592005 ms (FindLiveObjects: 0.005996 ms CreateObjectMapping: 0.009994 ms MarkObjects: 0.185563 ms  DeleteObjects: 0.041310 ms)
+
+New scope index 0 is now in scope for SceneID: 1 Level Prefix: 0
+ 
+(Filename:  Line: 2479)
+
+Sending generic initial state update, broadcast on, view ID 'SceneID: 1 Level Prefix: 0'
+
+ 
+(Filename:  Line: 2489)
+
+Received state update for view ID SceneID: 1 Level Prefix: 0
+
+ 
+(Filename:  Line: 2489)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Connected to master server at 67.225.180.24:23466
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
+Incoming host list query response from master server.
+ 
+(Filename:  Line: 2479)
+
