@@ -1,9 +1,11 @@
 Volume Measuring
 ====
 
-Made with Unity.
+Introduction
+------------
 
-Version 0.1.2
+Purpose
+-------
 
 To-do list
 ==========
