@@ -4,8 +4,12 @@ Volume Measuring
 Introduction
 ------------
 
+Unity game base of a classic volume measuring problem.
+
 Purpose
 -------
+
+Started as a re-work of an assignment.
 
 To-do list
 ==========
